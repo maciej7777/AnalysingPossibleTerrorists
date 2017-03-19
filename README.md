@@ -1,4 +1,5 @@
 # PmdAnalysingPossibleTerrorists
+## Project description
 Student project based on combinatorial aspects of mathematics. The task is a simulation of a following environment:
 
 1. There are **n** people whose actions are being observed.
@@ -13,7 +14,7 @@ Code of the project has to return on the outputs following data:
 - number of suspected pairs of people
 - the histogram of number of suspected pairs according to number of meetings
 
-# Exemplary inputs and outputs
+## Exemplary inputs and outputs
 Please note, that output will vary each time you run a simulation. The proper output need to be just close to the output given below.
 
 Input 1 (n p h d):
