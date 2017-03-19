@@ -7,7 +7,7 @@ Student project based on combinatorial aspects of mathematics. The task is a sim
 3. There are **h** hotels.
 4. The simulation takes **d** days.
 
-The main goal of the project is to simulate the environment and find the number of "suspected" people (separately and as a pairs). People are suspected of terrorism when the meet in the hotel at least twice. The probability of such a situation is really small, but for a big input data it will take place (and it is statistically normal, so it cannot be understand as a special situation).
+The main goal of the project is to simulate the environment and find the number of "suspected" people (separately and as a pairs). People are suspected of terrorism when the meet in the hotel at least twice. The probability of such a situation is really small, but for a big input data it will take place (and it is statistically normal, so it cannot be understand as a special situation). The results of simulation are consistent with law of large numbers.
 
 Code of the project has to return on the outputs following data:
 - number of suspected people
