@@ -1,10 +1,10 @@
 # PmdAnalysingPossibleTerrorists
 Student project based on combinatorial aspects of mathematics. The task is a simulation of a following environment:
 
-1. There are n people whose actions are being observed.
-2. Each person goes to the hotel with probability p each day (so for example p 0.01 means that every person goes to the hotel average once per 100 days). 
-3. There are h hotels.
-4. The simulation takes d days.
+1. There are **n** people whose actions are being observed.
+2. Each person goes to the hotel with probability **p** each day (so for example p 0.01 means that every person goes to the hotel average once per 100 days). 
+3. There are **h** hotels.
+4. The simulation takes **d** days.
 
 The main goal of the project is to simulate the environment and find the number of "suspected" people (separately and as a pairs). People are suspected of terrorism when the meet in the hotel at least twice. The probability of such a situation is really small, but for a big input data it will take place (and it is statistically normal, so it cannot be understand as a special situation).
 
