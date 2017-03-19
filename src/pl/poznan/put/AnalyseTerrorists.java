@@ -61,7 +61,7 @@ public class AnalyseTerrorists {
                 if (getRandomNumber() < p) {
                     int chosenHotel = getRandomHotel(h);
 
-                    System.out.println("[Day " + (i + 1) + "]User " + j + " have chosen hotel number " + chosenHotel + ".");
+                    System.out.println("[Day " + (i + 1) + "]Person " + j + " have chosen hotel number " + chosenHotel + ".");
                     hotels.get(chosenHotel).add(j);
                 }
             }
@@ -126,6 +126,6 @@ public class AnalyseTerrorists {
 
         long elapsedTime = System.nanoTime() - start;
 
-        System.out.println("Czas trwania: " + elapsedTime/1000000000.0);
+        System.out.println("Duration: " + elapsedTime/1000000000.0 + "s");
     }
 }
