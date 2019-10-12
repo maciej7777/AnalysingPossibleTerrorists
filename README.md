@@ -1,4 +1,4 @@
-# PmdAnalysingPossibleTerrorists
+# AnalysingPossibleTerrorists
 ## Project description
 Student project based on combinatorial aspects of mathematics. The task is a simulation of a following environment:
 
